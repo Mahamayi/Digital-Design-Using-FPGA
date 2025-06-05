@@ -10,6 +10,10 @@ Please switch to the following branches to view specific implementations:
 - [`and-gate-using-lut`] (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/and_lut_ff)
 - [`full-adder-using-half-adder`] (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/full_adder)
 - [`priority-encoder]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/priority_encoder)
+- [`8bit-function]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/8bit_function)
+- [`pos-edge-detector]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/pos_edge_detector)
+- [`neg-edge-detector]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/neg_edge_detector)
+- [`both-edge-detector]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/both_edge_detector)
 
 Or visit all branches here:  
 👉 [View All Branches](https://github.com/Mahamayi/Digital-Design-Using-FPGA/branches)
