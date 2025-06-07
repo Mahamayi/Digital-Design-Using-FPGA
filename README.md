@@ -15,6 +15,9 @@ Please switch to the following branches to view specific implementations:
 - [`neg-edge-detector]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/neg_edge_detector)
 - [`both-edge-detector]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/both_edge_detector)
 - [`memory]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/memory)
+- [`single-port-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/single_port_bram)
+- [`true-dual-port-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/true_dual_port_bram)
+- [`distributed-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/distributed_bram)
 
 Or visit all branches here:  
 👉 [View All Branches](https://github.com/Mahamayi/Digital-Design-Using-FPGA/branches)
