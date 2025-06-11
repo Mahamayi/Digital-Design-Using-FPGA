@@ -18,6 +18,8 @@ Please switch to the following branches to view specific implementations:
 - [`single-port-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/single_port_bram)
 - [`true-dual-port-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/true_dual_port_bram)
 - [`distributed-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/distributed_bram)
+- [`clock-counter-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/clock_counter_bram)
+
 
 Or visit all branches here:  
 👉 [View All Branches](https://github.com/Mahamayi/Digital-Design-Using-FPGA/branches)
