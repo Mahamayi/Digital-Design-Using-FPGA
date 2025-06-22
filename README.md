@@ -19,6 +19,7 @@ Please switch to the following branches to view specific implementations:
 - [`true-dual-port-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/true_dual_port_bram)
 - [`distributed-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/distributed_bram)
 - [`clock-counter-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/clock_counter_bram)
+- [`hub75-colormap]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/hub75_colormap)
 
 
 Or visit all branches here:  
