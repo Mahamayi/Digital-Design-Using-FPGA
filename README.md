@@ -1,26 +1,35 @@
-# Digital-Design-Using-FPGA
-A repository for Digital Design Using FPGA
+# Digital Design Using FPGA
 
-The `main` branch is empty by design.  
-Please switch to the following branches to view specific implementations:
-- [`two-bit-multiplier`] (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/Twobitmultiplier)
-- [`half-adder`] (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/half_adder)
-- [`three-bit-multiplier-using-half-adder`] (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/multiplier_3_bit)  
-- [`two-bit-counter-using-lut`]  (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/2bit_counter_lut)
-- [`and-gate-using-lut`] (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/and_lut_ff)
-- [`full-adder-using-half-adder`] (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/full_adder)
-- [`priority-encoder]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/priority_encoder)
-- [`8bit-function]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/8bit_function)
-- [`pos-edge-detector]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/pos_edge_detector)
-- [`neg-edge-detector]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/neg_edge_detector)
-- [`both-edge-detector]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/both_edge_detector)
-- [`memory]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/memory)
-- [`single-port-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/single_port_bram)
-- [`true-dual-port-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/true_dual_port_bram)
-- [`distributed-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/distributed_bram)
-- [`clock-counter-bram]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/clock_counter_bram)
-- [`hub75-colormap]` (https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/hub75_colormap)
+Verilog HDL designs implemented and simulated in Xilinx Vivado, from basic adders to BRAM memories and a HUB75 LED display controller. Built while working through an FPGA design course at Anmaya Technologies.
 
+**Tools:** Verilog HDL · Xilinx Vivado · XDC constraints
 
-Or visit all branches here:  
-👉 [View All Branches](https://github.com/Mahamayi/Digital-Design-Using-FPGA/branches)
+The `main` branch is just this index. Each design lives on its own branch, so click a link below to open it.
+
+## Arithmetic
+- [Half adder](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/half_adder)
+- [Full adder using half adders](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/full_adder)
+- [2-bit multiplier](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/Twobitmultiplier)
+- [3-bit multiplier using half adders](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/multiplier_3_bit)
+- [8-bit function](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/8bit_function)
+
+## LUT-based and sequential logic
+- [AND gate using LUT](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/and_lut_ff)
+- [2-bit counter using LUT](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/2bit_counter_lut)
+- [Priority encoder](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/priority_encoder)
+- [Positive-edge detector](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/pos_edge_detector)
+- [Negative-edge detector](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/neg_edge_detector)
+- [Both-edge detector](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/both_edge_detector)
+
+## Memory
+- [Memory](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/memory)
+- [Single-port BRAM](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/single_port_bram)
+- [True dual-port BRAM](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/true_dual_port_bram)
+- [Distributed RAM](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/distributed_bram)
+- [Clock counter using BRAM](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/clock_counter_bram)
+
+## Application
+- [HUB75 LED matrix colour mapping](https://github.com/Mahamayi/Digital-Design-Using-FPGA/tree/hub75_colormap) (pipelined, valid-ready handshake, BRAM)
+
+## Contact
+Mahamayi S · mahamayi25@gmail.com
